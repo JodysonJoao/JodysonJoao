@@ -32,7 +32,7 @@
 
 > Dashboard com visualização de produtos, pedidos, autenticação com JWT e organização por categorias.
 
-🔗 [Veja o repositório](https://github.com/JodysonJoao/EstoqueFullstack)
+🔗 [Veja o repositório](https://github.com/JodysonJoao/Estoque-Fullstack)
 
 ---
 
