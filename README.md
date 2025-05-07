@@ -3,6 +3,7 @@
 <p align="center">
   <em>Desenvolvedor .NET e React.</em>
 </p>
+
 ---
 
 ## 🚀 Sobre mim
@@ -26,7 +27,7 @@
 ### 📦 Sistema de Estoque
 
 <p align="center">
-  <img src=".estoque-image.png" width="700" alt="Sistema de Estoque"/>
+  <img src="estoque-image.png" width="700" alt="Sistema de Estoque"/>
 </p>
 
 > Dashboard com visualização de produtos, pedidos, autenticação com JWT e organização por categorias.
