@@ -6,10 +6,10 @@
 
 ---
 
-## 🚀 Sobre mim
-- 🎓 Estudante e programador focado em backend com .NET e frontend com React.
-- 💡 Atualmente procurando meu lugar no mercado de trabalho.
-- 💥 Prazer por aprender, construir e resolver problemas com código.
+##  Sobre mim
+-  Estudante e programador focado em backend com .NET e frontend com React.
+-  Atualmente procurando meu lugar no mercado de trabalho.
+-  Prazer por aprender, construir e resolver problemas com código.
 
 ---
 
@@ -22,9 +22,9 @@
 
 ---
 
-## 🔥 Projeto em destaque
+##  Projeto em destaque
 
-### 📦 Sistema de Estoque
+###  Sistema de Estoque
 
 <p align="center">
   <img src="estoque-image.png" width="700" alt="Sistema de Estoque"/>
